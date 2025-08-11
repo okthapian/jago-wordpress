@@ -16,10 +16,15 @@ Di sini kamu akan belajar bagaimana cara mengkustomisasi WordPress **tanpa plugi
 ## 📂 Struktur Repo
 jago-wordpress/
 │
+
 ├── tutorials/ # Panduan step-by-step
+
 ├── snippets/ # Kode siap pakai (PHP, CSS, JS)
+
 ├── functions/ # Fitur kustom pengganti plugin
+
 ├── themes/ # Contoh tema & child theme
+
 └── resources/ # Materi tambahan (PDF, tools)
 
 
