@@ -6,6 +6,9 @@ Di sini kamu akan belajar bagaimana cara mengkustomisasi WordPress **tanpa plugi
 > ⚠️ **Akses hanya untuk peserta kelas berbayar**.  
 > Mohon tidak membagikan isi repo ini secara publik.
 
+## Lihat Cara Mendaftar Kelas
+untuk kelas ini bersifat berbayar untuk sekali bayar akses 2 bulan, info lengkapnya baca link berikut [Jago WP](https://github.com/okthapian/jago-wordpress/wiki)
+
 ## 🎯 Apa yang Akan Kamu Pelajari
 - 📚 Menguasai WordPress tanpa ketergantungan plugin berat.
 - 🔧 Membuat fungsi kustom untuk menggantikan plugin.
